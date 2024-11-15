@@ -33,11 +33,15 @@ Our goal is to provide an immersive platform where memories can be relived, resh
 ---
 
 ## Features
-
-- **Memory NFTs**: Create, buy, sell, and combine memories represented as NFTs.
-- **Social-Fi Elements**: Connect with other users by blending similar memories, creating shared experiences.
-- **Game-Fi Mechanics**: Earn EME tokens by participating in memory activities, combining NFTs, and using props to enhance memory experiences.
-- **Customizable Experiences**: Modify and transform memories using in-app tools and props, giving each memory a unique, personal touch.
+- **Emogrowth**: Recall and mint Memory NFTs; higher EME tokens boost "Ebolin" level.
+- **Marketplace**: Reward, list, and filter Memory NFTs by emotion and model.
+- **Magicpotion**: Use synthesis and division potions to combine or split memories.
+- **Dreamland**:
+  - **Entrance**: Access the metaverse with EME tokens.
+  - **Props Assist**: Modify memories with special tools.
+  - **Memory Swap**: Exchange memories via "floating bottle."
+  - **DRM Token**: Unlock new islands.
+  - **Six Emotional Lands**: Explore areas themed around core emotions.
 
 ---
 
