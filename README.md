@@ -52,10 +52,35 @@ To set up EMemory locally:
 1. Clone this repository:
    ```bash
    git clone https://github.com/EMemoryProject/EMemory.git
+2. Use Vite.js to setup necessary files:
+    ```bash
+    npm create vite@latest .
+3. To run:
+   ```bash
+   npm run dev
 
 ---
 
 ## Working of Ememory
 
 https://github.com/user-attachments/assets/c0a62ae6-2e2d-4c84-9bff-d3e8d96fe0e4
+
+---
+
+## Usage
+
+The use of EMemory is to transform the way we store and recall our memories in the blockchain world.
+It enables us to remember the past memories and embrac them by sharing with others.
+As there is an increase in Lonliness in the world the past memories will come in handy to remember who we are and what we become,this significantly improves the life.
+
+---
+
+## Contributing
+
+Anyone can contribute by creating their memory cards and list the cards in the marketplace.
+Some special cards can be split or synthesized and can be made a magic potion.
+Your Experiences and Memory also need a place to be stored safely and permanently in an alternate place from Brain.EMemory exactly does this.
+
+---
+
 
