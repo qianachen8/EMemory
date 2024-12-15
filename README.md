@@ -52,3 +52,10 @@ To set up EMemory locally:
 1. Clone this repository:
    ```bash
    git clone https://github.com/EMemoryProject/EMemory.git
+
+---
+
+## Working of Ememory
+
+https://github.com/user-attachments/assets/c0a62ae6-2e2d-4c84-9bff-d3e8d96fe0e4
+
